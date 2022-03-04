@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clccode
 - 👀 I’m interested in learning to code to conduct analysis, solve problems, and create things.
-- 🌱 I’m currently learning Python and Javascript.
+- 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on fun projects that will help me learn more.
 - 📫 How to reach me: campbellcl@gmail.com
 
