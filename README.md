@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clccode
-- 👀 I’m interested in learning to code to conduct analysis, solve problems, and create things.
+- 👀 I’m interested in cyber security, analysis, and solving problems.
 - 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on fun projects that will help me learn more.
 - 📫 How to reach me: clccodes@yahoo.com
